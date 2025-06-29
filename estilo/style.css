@@ -54,7 +54,7 @@ header > h1{
 
 
 header > p{
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     padding: 20px;
     margin: auto;
     max-width: 600px;
@@ -76,7 +76,6 @@ nav > a{
     text-decoration: none;
     padding: 10px;
     
-
 }
 
 nav > a:hover{
